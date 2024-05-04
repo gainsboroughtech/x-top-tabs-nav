@@ -1,0 +1,1 @@
+Created with `npx create-expo-stack x-top-tabs-nav --expo-router --stack`
